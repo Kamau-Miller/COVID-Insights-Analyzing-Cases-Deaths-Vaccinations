@@ -1,4 +1,4 @@
-Alex the Analyst's SQL Exploration Project
+SQL Exploration Project
 This project was conducted as part of collaboration with Alex the Analyst on SQL exploration. The aim was to analyze and compare COVID Deaths and COVID Vaccinations using data sets sourced from CDC.GOV. The primary focus was on specific columns: Location, Date, Total Cases, New Cases, Total Deaths, and Population.
 
 Data Sets
@@ -21,23 +21,6 @@ A view was created to facilitate future data visualization and analysis.
 
 Usage
 The SQL scripts used for these analyses are provided within the repository. Users can replicate the queries and explore the dataset further.
-Repository Structure
-The repository is organized as follows:
-
-/Queries: Contains SQL scripts used for the analyses.
-/Data: Houses the datasets used in the project.
-How to Use
-Clone the repository.
-Utilize your preferred SQL environment to run and analyze the provided scripts.
-Ensure the necessary datasets are available in your working environment.
-Contribution
-Contributions are welcome! If you have suggestions, issues, or improvements, feel free to open an issue or create a pull request.
-
-License
-This project is licensed under the [Your License] License - see the LICENSE.md file for details.
-
-Feel free to tailor this template to fit your project specifics and feel. Adding sections about prerequisites, results, or more detailed instructions can make the README more comprehensive. This can serve as a starting point to communicate the essence of your collaboration and project!
-
 
 
 
