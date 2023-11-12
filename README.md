@@ -1,4 +1,4 @@
-# SQL-Explporation-Guided-Project
+# COVID Insights: Analyzing Cases, Deaths, and Vaccinations
 This project was conducted as part of collaboration with Alex the Analyst on SQL exploration. The aim was to analyze and compare COVID Deaths and COVID Vaccinations using data sets sourced from CDC.GOV. The primary focus was on specific columns: Location, Date, Total Cases, New Cases, Total Deaths, and Population.
 Data Sets
 The project utilizes two main datasets sourced from CDC.GOV:
